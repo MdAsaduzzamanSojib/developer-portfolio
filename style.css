@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 40%;
+    padding-left: 3%;
+    margin-left: 5%;
+}
+    img {
+        width: 100%;
+    }
+    .sojib{
+        width: 100%;
+    }
+    .justify{
+        text-align: justify;
+    }
+    .pic{
+        margin-top: 10%;
+    }
+    .link-button{
+        text-decoration: none;
+        background-image: linear-gradient(orange, tomato);
+        padding: 10px 40px;
+        color:black;
+        font-weight: 800px;
+        border-radius: 5px ;
+    }
+    .top-banner{
+        background-image: url(images/top-banner.png);
+        background-repeat: no-repeat;
+    }
+    
